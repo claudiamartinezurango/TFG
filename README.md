@@ -109,5 +109,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](https://
 ---
 ## Contacto
 * Autor : Claudia Martínez Urango
-* Email : .[martinezurangoclaudia@gmail.com].(mailto:martinezurangoclaudia@gmail.com).
+* Email : .[martinezurangoclaudia@gmail.com](mailto:martinezurangoclaudia@gmail.com).
   
