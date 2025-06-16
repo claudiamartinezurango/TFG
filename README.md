@@ -1,4 +1,4 @@
-"""# Predicción de Resultados de Partidos de la NBA – README  
+#Predicción de Resultados de Partidos de la NBA – README  
 
 Este repositorio contiene el cuaderno Jupyter **`TFG.ipynb`**, en el que se desarrolla íntegramente el pipeline para predecir si el equipo local ganará un partido de la NBA (temporada 2023–2024) mediante modelos de clasificación supervisada.
 
